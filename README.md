@@ -2,7 +2,7 @@
 
 **Meu nome é Niron ALves**
 
-- _Estou estudando na ![Alura](https://www.alura.com.br)
+- _Estou estudando na [Alura](https://www.alura.com.br)
 
 - _Estou me desenvolvendo na linguagem java script_
 
