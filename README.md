@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🧡
 
-**Meu nome é Niron ALves**
+**Meu nome é **Niron ALves**
 
 - _Estou estudando na [Alura](https://www.alura.com.br)
 
